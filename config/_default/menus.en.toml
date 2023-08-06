@@ -12,18 +12,20 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "posts"
+  pageRef = "blog"
+  #url = "https://sentimientodeunlatino.com/blog"
   weight = 10
 
 [[main]]
-  name = ".lrcat"
-  pageRef = ".lrcat"
+  name = "lrcat"
+  pageRef = "lightroom"
+#  url = "https://sentimientodeunlatino.com/lightroom"
   weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "Tags"
+#  pageRef = "https://sentimientodeunlatino.com/tags"
+#  weight = 30
 
 [[main]]
   identifier = "search"
