@@ -16,11 +16,11 @@ title = "Congo"
   # description = "My awesome website"
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
+  name = "Kevin León"
+  image = "img/author.jpg"
+  headline = "Un latino"
+  bio = "Photography, music, coffee, collecting, etc."
+  links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -37,12 +37,12 @@ title = "Congo"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
+     { instagram = "https://instagram.com/kevinleonj" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
   #   { linkedin = "https://linkedin.com/in/username" },
-  #   { mastodon = "https://mastodon.instance/@username" },
+     { mastodon = "https://mastodon.instance/kevinleonj" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -53,6 +53,7 @@ title = "Congo"
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },
+     { spotify = "https://open.spotify.com/intl-es/track/6nSLh6LLFcvfMAz83AgbbK?si=0a631384c6c44dd8" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { telegram = "https://t.me/username" },
@@ -62,4 +63,4 @@ title = "Congo"
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
