@@ -10,3 +10,5 @@ cascade:
 {{< lead >}}
 Estas son las imágenes que un Europeo ve pero no entiende.
 {{< /lead >}}
+
+![First Image](image1-2.jpg)
